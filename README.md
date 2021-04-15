@@ -1,2 +1,2 @@
-# Arc-Menu_Japanes_translate_file
+# Arc-Menu Japanes translate file
 *Arc menu Japanes Translate file*
