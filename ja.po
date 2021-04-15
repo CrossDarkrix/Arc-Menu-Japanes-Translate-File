@@ -1,6 +1,6 @@
 # Japanese translation for Arc Menu.
 # Copyright (C) 2021 The Arc Menu Authors.
-# This file is distributed under the same license as the Arc Menu package.
+# This file is distributed under the same license as the Arc Menu.
 # DarkRix, 2021.
 #
 msgid ""
