@@ -31,7 +31,7 @@ msgstr "該当なし。"
 msgid "%d more"
 msgid_plural "%d more"
 msgstr[0] "%d より多い"
-msgstr[1] "%d より多い"
+
 
 #: prefs.js:40 prefs.js:5787 menulayouts/raven.js:51 menulayouts/raven.js:214
 #: menulayouts/ubuntudash.js:52 menulayouts/ubuntudash.js:330
